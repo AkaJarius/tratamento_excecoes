@@ -1,7 +1,7 @@
 # Tratamento de Exceções
 
 ## Problema exemplo:
-Três métodos de resolver o problema abaixo:
+Três métodos de resolver o problema abaixo (serão atualizados nos commits do repositório:
 - muito ruim
 - ruim
 - bom
